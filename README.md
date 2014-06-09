@@ -1,0 +1,1 @@
+This is a voice based web browser made in Java. It uses Google API for speech to text and text to speech conversion. It can process commands like : Add Tab, Close Tab, goto www.google.com, search query, etc.
